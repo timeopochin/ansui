@@ -1,0 +1,3 @@
+= ansui
+
+A very minimal set of tools to create terminal user interfaces with ANSI escape codes.
