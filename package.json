@@ -25,5 +25,8 @@
   "bugs": {
     "url": "https://github.com/timeopochin/ansui/issues"
   },
-  "homepage": "https://github.com/timeopochin/ansui#readme"
+  "homepage": "https://github.com/timeopochin/ansui#readme",
+  "devDependencies": {
+    "mocha": ""
+  }
 }
