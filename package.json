@@ -1,0 +1,29 @@
+{
+  "name": "ansui",
+  "version": "0.0.1",
+  "description": "A very minimal set of tools to create terminal user interfaces with ANSI escape codes.",
+  "main": "lib/main.js",
+  "directories": {
+    "lib": "lib",
+    "test": "test"
+  },
+  "scripts": {
+    "test": "mocha test/*.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/timeopochin/ansui.git"
+  },
+  "keywords": [
+    "tui",
+    "node",
+    "ansi",
+    "ui"
+  ],
+  "author": "Timeo Pochin",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/timeopochin/ansui/issues"
+  },
+  "homepage": "https://github.com/timeopochin/ansui#readme"
+}
