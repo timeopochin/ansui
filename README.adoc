@@ -1,3 +1,5 @@
 = ansui
 
+image:https://travis-ci.org/timeimage:https://travis-ci.org/timeopochin/ansui.svg?branch=master["Build Status", link="https://travis-ci.org/timeopochin/ansui"]opochin/ansui.svg?branch=master["Build Status", link="https://travis-ci.org/timeopochin/ansui"]
+
 A very minimal set of tools to create terminal user interfaces with ANSI escape codes.
